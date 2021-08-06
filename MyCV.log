@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.7) (preloaded format=xelatex 2021.8.3)  6 AUG 2021 11:32
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.7) (preloaded format=xelatex 2021.8.3)  6 AUG 2021 15:50
 entering extended mode
 **./MyCV.tex
 (MyCV.tex
@@ -785,8 +785,125 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count317
 \calc@Cskip=\skip62
 )
+(C:\Users\alex_\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(C:\Users\alex_\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\alex_\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\alex_\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\alex_\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen282
+\Hy@linkcounter=\count318
+\Hy@pagecounter=\count319
+
+(C:\Users\alex_\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+)
+(C:\Users\alex_\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-langp
+atches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(C:\Users\alex_\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\alex_\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count320
+ (C:\Users\alex_\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count321
+
+(C:\Users\alex_\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen283
+
+(C:\Users\alex_\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\alex_\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count322
+\Field@Width=\dimen284
+\Fld@charsize=\dimen285
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(C:\Users\alex_\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count323
+\c@Item=\count324
+\c@Hfootnote=\count325
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+(C:\Users\alex_\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
+File: hxetex.def 2021-06-07 v7.00m Hyperref driver for XeTeX
+
+(C:\Users\alex_\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box83
+\c@Hy@AnnotLevel=\count326
+\HyField@AnnotCount=\count327
+\Fld@listcount=\count328
+\c@bookmark@seq@number=\count329
+
+(C:\Users\alex_\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\alex_\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+(C:\Users\alex_\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip63
+)
 LaTeX Font Info:    Trying to load font information for T1+AnonymousPro on inpu
-t line 34.
+t line 36.
 
 (C:\Users\alex_\AppData\Local\Programs\MiKTeX\tex/latex/anonymouspro\t1anonymou
 spro.fd
@@ -794,33 +911,37 @@ File: t1anonymouspro.fd 2019/07/12 Fontinst v1.933 font definitions for T1/Anon
 ymousPro.
 )
 LaTeX Font Info:    Font shape `T1/AnonymousPro/m/n' will be
-(Font)              scaled to size 10.95pt on input line 34.
+(Font)              scaled to size 10.95pt on input line 36.
  (MyCV.aux)
 \openout1 = `MyCV.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
-4.
+6.
 
 (C:\Users\alex_\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-\c@lstlisting=\count318
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+\c@lstlisting=\count330
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -856,52 +977,72 @@ LaTeX Font Info:    ... okay on input line 34.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+Package hyperref Info: Link coloring OFF on input line 36.
+(C:\Users\alex_\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\alex_\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\alex_\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count331
+)
+LaTeX Info: Redefining \ref on input line 36.
+LaTeX Info: Redefining \pageref on input line 36.
+LaTeX Info: Redefining \nameref on input line 36.
+ (MyCV.out) (MyCV.out)
+\@outlinefile=\write4
+\openout4 = `MyCV.out'.
+
 File: pic.jpg Graphic file (type bmp)
 <pic.jpg>
 LaTeX Font Info:    Font shape `T1/AnonymousPro/m/n' will be
-(Font)              scaled to size 24.88pt on input line 54.
+(Font)              scaled to size 24.88pt on input line 56.
 LaTeX Font Info:    Font shape `T1/AnonymousPro/m/n' will be
-(Font)              scaled to size 20.74pt on input line 57.
+(Font)              scaled to size 20.74pt on input line 59.
 LaTeX Font Info:    Font shape `T1/AnonymousPro/m/it' will be
-(Font)              scaled to size 20.74pt on input line 57.
+(Font)              scaled to size 20.74pt on input line 59.
 
-Overfull \hbox (37.26566pt too wide) in paragraph at lines 40--60
+Overfull \hbox (37.26566pt too wide) in paragraph at lines 42--62
 []$[]$ $[]$ 
  []
 
 LaTeX Font Info:    Font shape `T1/AnonymousPro/m/n' will be
-(Font)              scaled to size 14.4pt on input line 72.
+(Font)              scaled to size 14.4pt on input line 74.
 LaTeX Font Info:    Font shape `T1/AnonymousPro/b/n' will be
-(Font)              scaled to size 14.4pt on input line 72.
+(Font)              scaled to size 14.4pt on input line 74.
 LaTeX Font Info:    Font shape `T1/AnonymousPro/m/n' will be
-(Font)              scaled to size 12.0pt on input line 82.
+(Font)              scaled to size 12.0pt on input line 84.
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--119
+Underfull \hbox (badness 10000) in paragraph at lines 99--121
 [][]   []   []   []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--119
+Underfull \hbox (badness 10000) in paragraph at lines 99--121
 []   []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--119
+Underfull \hbox (badness 10000) in paragraph at lines 99--121
 []   []   []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--119
+Underfull \hbox (badness 10000) in paragraph at lines 99--121
 []   []   []   []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--119
+Underfull \hbox (badness 10000) in paragraph at lines 99--121
 []   []   []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--119
+Underfull \hbox (badness 10000) in paragraph at lines 99--121
 []   []   []
  []
 
@@ -910,149 +1051,152 @@ File: Flags//MX.png Graphic file (type bmp)
 File: Flags//UK.png Graphic file (type bmp)
 <Flags//UK.png>
 LaTeX Font Info:    Font shape `T1/AnonymousPro/b/n' will be
-(Font)              scaled to size 12.0pt on input line 141.
+(Font)              scaled to size 12.0pt on input line 143.
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--166
+Underfull \hbox (badness 10000) in paragraph at lines 160--168
 [][]   []   []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--166
+Underfull \hbox (badness 10000) in paragraph at lines 160--168
 []   []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--166
+Underfull \hbox (badness 10000) in paragraph at lines 160--168
 []   []
  []
 
 LaTeX Font Info:    Font shape `T1/AnonymousPro/b/n' will be
-(Font)              scaled to size 10.95pt on input line 206.
+(Font)              scaled to size 10.95pt on input line 208.
 LaTeX Font Info:    Font shape `T1/AnonymousPro/b/n' will be
-(Font)              scaled to size 17.28pt on input line 206.
+(Font)              scaled to size 17.28pt on input line 208.
 LaTeX Font Info:    Font shape `T1/AnonymousPro/m/n' will be
-(Font)              scaled to size 9.0pt on input line 208.
+(Font)              scaled to size 9.0pt on input line 210.
 
-Underfull \hbox (badness 10000) in paragraph at lines 208--208
+Underfull \hbox (badness 10000) in paragraph at lines 210--210
 []\T1/AnonymousPro/m/n/10.95 Thesis:Compilation of De-vel-op-ment Re-sources
  []
 
 
-Overfull \hbox (14.36514pt too wide) in alignment at lines 207--209
+Overfull \hbox (14.36514pt too wide) in alignment at lines 209--211
 [] []
  []
 
 
-Overfull \hbox (14.36514pt too wide) in alignment at lines 212--214
+Overfull \hbox (14.36514pt too wide) in alignment at lines 214--216
 [] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 218--218
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
 []\T1/AnonymousPro/m/n/10.95 Financial doc-u-ment anal-y-sis for proper dis-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 218--218
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
 \T1/AnonymousPro/m/n/10.95 tri-bu-tion and fil-ing pur-poses. As-sisted
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 218--218
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
 \T1/AnonymousPro/m/n/10.95 with op-er-a-tional ac-tiv-i-ties. De-vel-oped a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 218--218
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
 \T1/AnonymousPro/m/n/10.95 pro-ce-dure for mar-ket in-ves-ti-ga-tion, eval-u-a-
 
  []
 
 
-Overfull \hbox (14.36514pt too wide) in alignment at lines 217--219
+Overfull \hbox (14.36514pt too wide) in alignment at lines 219--221
 [] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--223
+Underfull \hbox (badness 10000) in paragraph at lines 225--225
 []\T1/AnonymousPro/m/n/10.95 Taught En-glish lessons to chil-dren and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--223
+Underfull \hbox (badness 10000) in paragraph at lines 225--225
 \T1/AnonymousPro/m/n/10.95 adults from hum-ble so-cioe-co-nomic back-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--223
+Underfull \hbox (badness 10000) in paragraph at lines 225--225
 \T1/AnonymousPro/m/n/10.95 grounds. Took part in a mas-sive sur-vey
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--223
+Underfull \hbox (badness 10000) in paragraph at lines 225--225
 \T1/AnonymousPro/m/n/10.95 re-search tar-geted at house-holds liv-ing in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--224
+Underfull \hbox (badness 10000) in paragraph at lines 226--226
 []\T1/AnonymousPro/m/n/10.95 Utilized Kinect V1 to track user ges-tures
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--224
+Underfull \hbox (badness 10000) in paragraph at lines 226--226
 \T1/AnonymousPro/m/n/10.95 and lever-age its body track-ing func-tion-al-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--224
+Underfull \hbox (badness 10000) in paragraph at lines 226--226
 \T1/AnonymousPro/m/n/10.95 ity on Unity (specif-i-cally on VFX Graph).
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--224
+Underfull \hbox (badness 10000) in paragraph at lines 226--226
 \T1/AnonymousPro/m/n/10.95 Par-ti-cle sys-tems were mapped to a 3D model
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--224
+Underfull \hbox (badness 10000) in paragraph at lines 226--226
 \T1/AnonymousPro/m/n/10.95 or 2D tex-ture. Ad-di-tional fea-tures in-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--224
+Underfull \hbox (badness 10000) in paragraph at lines 226--226
 \T1/AnonymousPro/m/n/10.95 cluded par-ti-cle tran-si-tions and re-ac-tion to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--224
+Underfull \hbox (badness 10000) in paragraph at lines 226--226
 \T1/AnonymousPro/m/n/10.95 the au-dio spec-trum of an au-dio file. This
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--224
+Underfull \hbox (badness 10000) in paragraph at lines 226--226
 \T1/AnonymousPro/m/n/10.95 was used to com-pose an au-dio-vi-sual ex-pe-ri-
  []
 
 
-Overfull \hbox (14.36514pt too wide) in alignment at lines 222--225
+Overfull \hbox (14.36514pt too wide) in alignment at lines 224--227
 [] []
  []
 
 
-Overfull \hbox (8.81288pt too wide) in paragraph at lines 68--228
+Overfull \hbox (8.81288pt too wide) in paragraph at lines 70--230
 [][] [] 
  []
 
 [1
 
-] (MyCV.aux) ) 
+] (MyCV.aux)
+Package rerunfilecheck Info: File `MyCV.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
 Here is how much of TeX's memory you used:
- 22291 strings out of 411278
- 451911 string characters out of 2829018
- 898277 words of memory out of 3000000
- 42330 multiletter control sequences out of 15000+600000
- 414571 words of font info for 63 fonts, out of 8000000 for 9000
+ 28400 strings out of 411278
+ 541350 string characters out of 2829018
+ 994482 words of memory out of 3000000
+ 48369 multiletter control sequences out of 15000+600000
+ 414931 words of font info for 64 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 101i,17n,108p,468b,1526s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 101i,17n,108p,468b,1535s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on MyCV.pdf (1 page).
